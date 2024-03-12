@@ -58,3 +58,4 @@ webencodings==0.5.1
 Werkzeug==3.0.1
 wheel==0.43.0
 wrapt==1.16.0
+opencv-python~=4.9.0.80
